@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves fine-tuning the BERT-base-cased model for sentiment analysis on the Amazon Customer Reviews dataset. The model is trained to predict user ratings based on their review text. The main goal is to explore the effectiveness of BERT in capturing nuanced sentiment expressions and providing interpretable insights through attention mechanisms.
+This project involves fine-tuning the BERT-base-cased model for rating predictions(sentiment analysis) on the Amazon Customer Reviews dataset. The model is trained to predict user ratings based on their review text. The main goal is to explore the effectiveness of BERT in capturing nuanced sentiment expressions and providing interpretable insights through attention mechanisms.
 
 ## Team Members
 
